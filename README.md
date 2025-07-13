@@ -19,19 +19,19 @@ This is a multi-gpu PyTorch implementation of the latent-space experiments in pa
 Our approach concurrently enhances linear probing accuracy and generation quality, as evaluated by FID and Inception Score (with and w/o CFG). The effectiveness is demonstrated across both **DiT-Base and DiT-Large** models in **class-conditional and unconditional** settings.
 #### DiT-Base, class-conditional, 100 epochs
 <p align="center">
-<img src="https://github.com/user-attachments/assets/22236c30-d5a7-428f-8f18-1aeb1000f972" height="300">
-<img src="https://github.com/user-attachments/assets/74668422-c971-4442-9099-82aa3d20cd6f" height="300">
+<img src="https://github.com/user-attachments/assets/22236c30-d5a7-428f-8f18-1aeb1000f972" height="250">
+<img src="https://github.com/user-attachments/assets/74668422-c971-4442-9099-82aa3d20cd6f" height="250">
 </p>
 
 #### DiT-Base, unconditional, 400 epochs
 <p align="center">
-<img src="https://github.com/user-attachments/assets/73460267-a7dd-4616-a90c-b0c729000b94" height="300">
+<img src="https://github.com/user-attachments/assets/73460267-a7dd-4616-a90c-b0c729000b94" height="250">
 </p>
 
 #### DiT-Large, class-conditional, 100 epochs
 <p align="center">
-<img src="https://github.com/user-attachments/assets/cfc3a1c9-8716-44ae-a2ab-6598f1a7c405" height="300">
-<img src="https://github.com/user-attachments/assets/58cd6796-3fec-4298-8287-45fb0c2653d8" height="300">
+<img src="https://github.com/user-attachments/assets/cfc3a1c9-8716-44ae-a2ab-6598f1a7c405" height="250">
+<img src="https://github.com/user-attachments/assets/58cd6796-3fec-4298-8287-45fb0c2653d8" height="250">
 </p>
 
 #### DiT-Large, unconditional, 200 epochs
